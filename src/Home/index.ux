@@ -16,6 +16,7 @@
               <div class="content-text">
                 <div class="content-text__content"> 
                   <text>{{item.content}}</text>
+                  <text class="author">{{item.author}}</text>
                 </div>
               </div>
             </list-item>
